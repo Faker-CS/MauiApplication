@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.View.HomePage"
+             Title="HomePage">
+    <ScrollView BackgroundColor="LightGreen">
+        <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Start">
+            <Label
+            Text="Bienvenue à l’Optimiseur simple de la Nutrition des vaches laitières"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="20"
+            HorizontalOptions="Center" />
+
+            <Grid Padding="30" Margin="20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Row="0" Grid.Column="0" Text="Animal" Command="{Binding GoPageCommand}"/>
+                <Button Grid.Row="0" Grid.Column="1" Text="Calcul Ration" />
+                <Button Grid.Row="0" Grid.Column="2" Text="Conseils" />
+                <Button Grid.Row="1" Grid.Column="0" Text="Statistiques" />
+                <Button Grid.Row="1" Grid.Column="1" Text="Fournisseurs" />
+                <Button Grid.Row="1" Grid.Column="2" Text="Prix marché" />
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

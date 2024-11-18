@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.View.CalculPage"
+             Title="CalculPage">
+    <ScrollView>
+        <VerticalStackLayout Background="LightGreen" >
+            <Label Text="On commence par le calcul de la capacité d'ingestion de la vache:" TextColor="Black" />
+            <Label Text="Veuillez saisir:" TextColor="Black"/>
+
+            <Label Text="Poids vif (kg):" TextColor="Black"/>
+            <Entry x:Name="PoidsVifEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Production en Lait (kg):" TextColor="Black"/>
+            <Entry x:Name="ProductionEnLaitEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Note d'état corporel:" TextColor="Black"/>
+            <Entry x:Name="NoteEtatCorporelEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Parité:" TextColor="Black"/>
+            <Entry x:Name="PariteEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Semaine de lactation:" TextColor="Black" />
+            <Entry x:Name="SemaineLactationEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Semaine de Gestation:" TextColor="Black"/>
+            <Entry x:Name="SemaineGestationEntry" TextColor="Black" BackgroundColor="WhiteSmoke"/>
+
+            <Label Text="Age (mois):" TextColor="Black"/>
+            <Entry x:Name="AgeEntry" TextColor="Black"/>
+
+            <Button Text="Calculer" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
