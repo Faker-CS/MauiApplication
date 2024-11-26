@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.View.weatherPage"
+             Title="weatherPage">
+    <VerticalStackLayout>
+        <StackLayout Padding="20" Spacing="15">
+            <!-- City Input -->
+            <Entry x:Name="CityEntry"
+                   Placeholder="Enter city name"
+                   FontSize="Medium"
+                   HorizontalOptions="FillAndExpand" />
+
+            <!-- Fetch Weather Button -->
+            <Button Text="Get Weather"
+                    FontSize="Medium"
+                    HorizontalOptions="Center"
+                    Clicked="OnGetWeatherClicked" />
+
+            <!-- Weather Information -->
+            <StackLayout x:Name="WeatherInfoLayout" IsVisible="False" Spacing="10">
+                <!-- City Name -->
+                <Label x:Name="CityLabel"
+                       FontSize="Large"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center" />
+
+                <!-- Temperature -->
+                <Label x:Name="TemperatureLabel"
+                       FontSize="Medium"
+                       HorizontalOptions="Center" />
+
+                <!-- Humidity -->
+                <Label x:Name="HumidityLabel"
+                       FontSize="Medium"
+                       HorizontalOptions="Center" />
+
+                <!-- Condition -->
+                <Label x:Name="ConditionLabel"
+                       FontSize="Medium"
+                       HorizontalOptions="Center" />
+            </StackLayout>
+
+            <!-- Error Message -->
+            <Label x:Name="ErrorMessageLabel"
+                   TextColor="Red"
+                   FontSize="Small"
+                   IsVisible="False"
+                   HorizontalOptions="Center" />
+        </StackLayout>
+    </VerticalStackLayout>
+    
+</ContentPage>

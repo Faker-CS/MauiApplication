@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\infrastructure\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\infrastructure\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\infrastructure\\daovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\infrastructure\\daovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\domaine\\idaovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\domaine\\idaovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\view\\calculpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\view\\calculpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\business\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\business\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\domaine\\vache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\domaine\\vache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\viewmodel\\vmcalcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\viewmodel\\vmcalcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\viewmodel\\vmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\viewmodel\\vmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\infrastructure\\weatherwebservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\infrastructure\\weatherwebservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\domaine\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\domaine\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\domaine\\iweatherwebservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\domaine\\iweatherwebservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|c:\\users\\asus\\source\\repos\\mauiapp1\\mauiapp1\\infrastructure\\daovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34807F-4475-4894-86D5-B65EE53F3F42}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\infrastructure\\daovache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +42,104 @@
       "DocumentGroups": [
         {
           "DockedHeight": 136,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vache.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\Vache.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\Domaine\\Vache.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\Vache.cs",
-              "RelativeToolTip": "MauiApp1\\Domaine\\Vache.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "VMCalcul.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMCalcul.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\ViewModel\\VMCalcul.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMCalcul.cs",
+              "RelativeToolTip": "MauiApp1\\ViewModel\\VMCalcul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:29:40.9Z"
+              "WhenOpened": "2024-11-21T13:43:39.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CalculPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\View\\CalculPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\View\\CalculPage.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\View\\CalculPage.xaml",
+              "RelativeToolTip": "MauiApp1\\View\\CalculPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T13:39:53.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherWebService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\IWeatherWebService.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Domaine\\IWeatherWebService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\IWeatherWebService.cs",
+              "RelativeToolTip": "MauiApp1\\Domaine\\IWeatherWebService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:38:30.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeToolTip": "MauiApp1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T13:30:12.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherWebService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\WeatherWebService.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Infrastructure\\WeatherWebService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\WeatherWebService.cs",
+              "RelativeToolTip": "MauiApp1\\Infrastructure\\WeatherWebService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:55:10.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "weather.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\weather.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Domaine\\weather.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\weather.cs",
+              "RelativeToolTip": "MauiApp1\\Domaine\\weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:47:35.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DAOVache.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\DAOVache.cs",
               "RelativeDocumentMoniker": "MauiApp1\\Infrastructure\\DAOVache.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\DAOVache.cs",
               "RelativeToolTip": "MauiApp1\\Infrastructure\\DAOVache.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA5wCIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T11:28:06.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IDAOVache.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\IDAOVache.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\Domaine\\IDAOVache.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Domaine\\IDAOVache.cs",
-              "RelativeToolTip": "MauiApp1\\Domaine\\IDAOVache.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Title": "VMHome.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMHome.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\ViewModel\\VMHome.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMHome.cs",
+              "RelativeToolTip": "MauiApp1\\ViewModel\\VMHome.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:30:40.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DAOContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\DAOContext.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\Infrastructure\\DAOContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Infrastructure\\DAOContext.cs",
-              "RelativeToolTip": "MauiApp1\\Infrastructure\\DAOContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:28:28.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VMCalcul.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMCalcul.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\ViewModel\\VMCalcul.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\ViewModel\\VMCalcul.cs",
-              "RelativeToolTip": "MauiApp1\\ViewModel\\VMCalcul.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:56:12.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CalculPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\View\\CalculPage.xaml",
-              "RelativeDocumentMoniker": "MauiApp1\\View\\CalculPage.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\View\\CalculPage.xaml",
-              "RelativeToolTip": "MauiApp1\\View\\CalculPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T10:16:36.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cow.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Business\\Cow.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\Business\\Cow.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\Business\\Cow.cs",
-              "RelativeToolTip": "MauiApp1\\Business\\Cow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T09:57:30.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\MainPage.xaml",
-              "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T21:30:02.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MauiApp1\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MauiApp1\\MauiApp1\\AppShell.xaml",
-              "RelativeToolTip": "MauiApp1\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T11:46:39.017Z"
+              "WhenOpened": "2024-11-21T11:21:05.938Z"
             }
           ]
         },

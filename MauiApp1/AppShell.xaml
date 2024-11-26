@@ -15,5 +15,9 @@
     Title="Calcul"
     ContentTemplate="{DataTemplate local:CalculPage}"
     Route="CalculPage" />
+    <ShellContent
+    Title="Calcul"
+    ContentTemplate="{DataTemplate local:weatherPage}"
+    Route="weatherPage" />
 
 </Shell>

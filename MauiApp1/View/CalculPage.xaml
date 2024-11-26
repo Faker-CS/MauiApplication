@@ -30,6 +30,7 @@
             <Entry x:Name="AgeEntry" TextColor="Black"/>
 
             <Button Text="Calculer" />
+            <Button Text="GoBack" Command="{Binding GoHomeCommand}"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
